@@ -21,3 +21,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-hamid&show_icons=true&locale=en" alt="abu-hamid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-hamid&" alt="abu-hamid" /></p>
+
+![Abu-hamid's Stats](https://github-readme-stats.vercel.app/api?username=Abu-hamid&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
+
+![Abu-hamid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abu-hamid&theme=nightowl&hide_border=false)
+
+![Abu-hamid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-hamid&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+
+
