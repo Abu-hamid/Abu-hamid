@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abou Hamid</h1>
 <h3 align="center">A Software Engineer in ArclogiQ Software Solutions </h3>
 
-- 🌱 I’m **Software Engineer**
-
-- 💬 Ask me about **MERN, PYTHON, DEVOPS**
-
-- 📫 How to reach me **abouhamid9695@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+💼 I’m currently working as a Software Engineer at ArclogiQ Softwares.
+🌱 Learning MERN stack and Wordpress etc.
+🛠️ Skills: React, Node.js, Tailwind CSS, MongoDB, Devops.
+📫 Databases: MonogoDB, MySql, Postgresql etc
+🧭 I love exploring and working both in frontend, backend and devops.
+💬 Ask me about: Web development, Freelancing tips, GitHub setup
+📫 How to reach me: abouhamid9695@mail.com
 <p align="left">
 </p>
 
