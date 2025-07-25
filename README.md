@@ -3,7 +3,7 @@
 
 💼 I’m currently working as a Software Engineer at ArclogiQ Softwares.
 
-🌱 Learning MERN stack and Wordpress etc.
+🌱 Learning MERN stack and Cloud etc.
 
 🛠️ Skills: React, Node.js, Tailwind CSS, MongoDB, Devops.
 
@@ -11,7 +11,7 @@
 
 🧭 I love exploring and working both in frontend, backend and devops.
 
-💬 Ask me about: Web development, Freelancing tips, GitHub setup
+💬 Ask me about: Web Applications, Freelancing tips, GitHub setup, Devops
 
 📫 How to reach me: abouhamid9695@mail.com
 <p align="left">
