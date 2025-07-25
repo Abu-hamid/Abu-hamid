@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abou Hamid</h1>
-<h3 align="center">A Backend Engineer from India</h3>
+<h3 align="center">A Software Engineer in ArclogiQ Software Solutions </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-hamid&label=Profile%20views&color=0e75b6&style=flat" alt="abu-hamid" /> </p>
 
