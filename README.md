@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abou Hamid</h1>
 <h3 align="center">A Software Engineer in ArclogiQ Software Solutions </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-hamid&label=Profile%20views&color=0e75b6&style=flat" alt="abu-hamid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-hamid" alt="abu-hamid" /></a> </p>
-
 - 🌱 I’m **Software Engineer**
 
 - 💬 Ask me about **MERN, PYTHON, DEVOPS**
